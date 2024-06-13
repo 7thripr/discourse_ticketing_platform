@@ -79,12 +79,13 @@ npm run serve
 ```
 ---
 #### Setting up ngrok 
-MailHog is an Open Source email testing tool with a fake SMTP server underneath. It allows you to configure your application to send mail to MailHog instead of to your default SMTP server. MailHog catches all mail sent to it and stores them for display in a web-based user interface for you to view. For more information: https://github.com/mailhog/MailHog.<br>
-Version used: 1.0.1
 
 Start your third terminal
 - Setup ngrok and link you backend host to it. follow this [ngrok guide](https://ngrok.com/docs/).
 ---
+MailHog is an Open Source email testing tool with a fake SMTP server underneath. It allows you to configure your application to send mail to MailHog instead of to your default SMTP server. MailHog catches all mail sent to it and stores them for display in a web-based user interface for you to view. For more information: https://github.com/mailhog/MailHog.<br>
+Version used: 1.0.1
+
 #### Setting up MailHog
 Start your fourth terminal
 Check out the [guide](https://github.com/mailhog/MailHog) to install mailhog.
